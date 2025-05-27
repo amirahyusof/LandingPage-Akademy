@@ -98,6 +98,28 @@ The Akademy landing page can be customized to suit specific branding and design 
 4. Illustration in CTA section
    - <a href="https://www.freepik.com/free-vector/knowledge-concept-illustration_9793214.htm">Image by storyset</a> on Freepik
 
+## 📚 Style Guide
+- Font: Inter
+- Primary Color: #1D4ED8
+- Button Style: Rounded, Solid Background
+
+## 🧩 Components
+- HeroSection
+- FeaturesGrid
+- CTASection
+- Footer
+
+## 🚀 Tech Stack
+- Framework: React + Vite
+- Styling: Tailwind CSS
+- Deployment: Vercel
+
+## 🛠️ Setup Instructions
+1. Clone repo
+2. Install dependencies: `npm install`
+3. Run dev server: `npm run dev`
+
+
 
 
 
