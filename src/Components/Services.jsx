@@ -24,42 +24,42 @@ function Services(){
                 <div className="border-4 border-white rounded-xl">
                     <img src={speakingImg} className="p-4" alt="" />    
                     <h4 className="font-bold">Public Speaking Mastery Program</h4>
-                    <p className="hidden sm:block text-sm text-[#31363F] px-6 py-2">Master the art of effective communication and presentation.</p>
+                    <p className="hidden sm:block text-sm px-6 py-2">Master the art of effective communication and presentation.</p>
                 </div>
                 <div className="border-4 border-white rounded-xl">
                     <img src={nonImg} className="p-4" alt="" />   
                     <h4 className="font-bold">Non-Verbal Communication Course</h4>
-                    <p className="hidden sm:block text-sm text-[#31363F] px-6 py-2">Learn the nuances of body language and its impact on interpersonal interactions.</p>
+                    <p className="hidden sm:block text-sm px-6 py-2">Learn the nuances of body language and its impact on interpersonal interactions.</p>
                 </div>
                 <div className="border-4 border-white rounded-xl">
                     <img src={negoImg} className="p-4" alt="" />
                     <h4 className="font-bold">Negotiation Skill Seminar</h4>
-                    <p className="hidden sm:block text-sm text-[#31363F] px-6 py-2">Develop strategies for successful negotiation and conflict resolution.</p>
+                    <p className="hidden sm:block text-sm px-6 py-2">Develop strategies for successful negotiation and conflict resolution.</p>
                 </div>
                 <div className="border-4 border-white rounded-xl">
                     <img src={thinkingImg} className="p-4" alt="" />
                     <h4 className="font-bold">Critical Thinking Bootcamp</h4>
-                    <p className="hidden sm:block text-sm text-[#31363F] px-6 py-2">Enhance your problem-solving abilities and decision-making skills.</p>
+                    <p className="hidden sm:block text-sm px-6 py-2">Enhance your problem-solving abilities and decision-making skills.</p>
                 </div>
                 <div className="border-4 border-white rounded-xl">
                     <img src={writingImg} className="p-4" alt="" />
                     <h4 className="font-bold">Business Writing Workshop</h4>
-                    <p className="hidden sm:block text-sm text-[#31363F] px-6 py-2">Hone your written communication skills for professional correspondence.</p>
+                    <p className="hidden sm:block text-sm px-6 py-2">Hone your written communication skills for professional correspondence.</p>
                 </div>
                 <div className="border-4 border-white rounded-xl">
                     <img src={socialImg} className="p-4 sm:h-[230px] sm:w-[430px]" alt="" />
                     <h4 className="font-bold">Socializing and Networking Series</h4>
-                    <p className="hidden sm:block text-sm text-[#31363F] px-6 py-2">Build meaningful connections and navigate social situations with confidence.</p>
+                    <p className="hidden sm:block text-sm px-6 py-2">Build meaningful connections and navigate social situations with confidence.</p>
                 </div>
                 <div className="border-4 border-white rounded-xl">
                     <img src={timeImg} className="p-4" alt="" />
                     <h4 className="font-bold">Time Management Toolkit</h4>
-                    <p className="hidden sm:block text-sm text-[#31363F] px-6 py-2">Acquire techniques to optimize productivity and prioritize tasks effectively.</p>
+                    <p className="hidden sm:block text-sm px-6 py-2">Acquire techniques to optimize productivity and prioritize tasks effectively.</p>
                 </div>
                 <div className="border-4 border-white rounded-xl">
                     <img src={emotionalImg} className="p-4" alt="" />
                     <h4 className="font-bold">Emotional Intelligence Course</h4>
-                    <p className="hidden sm:block text-sm text-[#31363F] px-6 py-2">Develop self-awareness and interpersonal skills for effective leadership and collaboration.</p>
+                    <p className="hidden sm:block text-sm px-6 py-2">Develop self-awareness and interpersonal skills for effective leadership and collaboration.</p>
                 </div>
             </div>
 

@@ -16,13 +16,13 @@ function Testimony(){
                 <p className="text-[#7FC7D9] font-bold p-2 text-base">Boost Your Skills</p>
                 <h1 className="md:text-5xl sm:text-3xl text-4xl font-bold">
                 What people say about 
-                <span className="text-white"> Aka</span><span className="text-[#0F1035]">demy</span>
+                <span className="text-white"> Aka</span><span className="text-[#7FC7D9]">demy</span>
                 </h1>
                 <p className="md:text-xl sm:text-lg text-md text-[#DCF2F1] mt-4 mb-12 p-2">Discover the impact of our transformative programs</p>
             </div>
 
 
-            <div className="bg-[#365486] text-white sm:w-[650px] md:w-[850px] sm:h-[250px] md:h-[300px] mx-auto justify-center border-4 border-blue-300 rounded-2xl">
+            <div className="bg-[#365486] text-white sm:w-[650px] md:w-[850px] sm:h-[250px] md:h-[300px] mx-auto justify-center border-4 border-blue-200 rounded-2xl">
             <Swiper
                 slidesPerView={1}
                 speed={500}

@@ -13,7 +13,7 @@ function Navbar(){
         <div className="fixed w-full bg-[#365486] top-0 z-50 transition-all duration-1000">
             <div className="flex justify-between items-center h-24 px-16 text-white shadow-lg shadow-blue-300">
                 <h1 className="w-full sm:ml-4 text-3xl font-bold text-[#F8F6E3]">
-                    <a href="#home">Aka<span className="text-[#0F1035]">demy</span></a></h1>
+                    <a href="#home">Aka<span className="text-[#7FC7D9]">demy</span></a></h1>
                 <ul className="hidden md:flex mx-6 w-[50%] left-[50%]">
                     <li className="p-3">
                         <a href="#home">Home</a>

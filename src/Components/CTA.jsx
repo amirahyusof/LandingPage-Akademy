@@ -5,11 +5,11 @@ import actionImg from './Asset/action.jpg';
 function Action(){
     return(
         <div className="text-white grid md:grid-cols-2 mb-8 py-2" id="action">
-             <div className="w-full p-4 sm:w-[450px] md:w-[500px] lg:w-[650px] md:mt-48 mx-auto text-center justify-center py-2">
+             <div className="w-full p-4 sm:w-[450px] md:w-[500px] lg:w-[650px] md:mt-48 lg:mt-72 mx-auto text-center justify-center py-2">
                 <h1 className="md:text-5xl sm:text-3xl text-4xl text-[#7FC7D9] font-bold">
                     Transform your future with 
                     <span className="text-white"> Aka</span>
-                    <span className="text-[#0F1035]">demy</span>
+                    <span className="text-[#7FC7D9]">demy</span>
                 </h1>
                 <p className="font-bold p-2 text-base my-6">Empower yourself with the tools and knowledge you need to thrive in today's competitive job market.
                 From public speaking mastery to effective time management, our comprehensive programs cover essential soft skills to help you stand out and succeed.
