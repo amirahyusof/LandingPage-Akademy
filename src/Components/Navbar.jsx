@@ -24,8 +24,8 @@ function Navbar(){
                     <li className="p-3">
                         <a href="#plans">Plans</a>
                     </li>
-                    <li className="bg-[#7FC7D9] w-[160px] rounded-md font-medium p-3 text-white">
-                        <a href="#contact" className="mx-auto justify-center">Connect with Us</a>
+                    <li className="bg-[#7FC7D9] w-[120px] rounded-md font-medium p-3  text-white hover:shadow-md hover:shadow-white transition delay-150 duration-300">
+                        <a href="#contact" className="mx-auto text-center justify-center">Contact Us</a>
                     </li>
                 </ul>
 
@@ -45,8 +45,8 @@ function Navbar(){
                     <li className="p-3">
                         <a href="#plans">Plans</a>
                     </li>
-                    <li className="bg-[#365486] w-[220px] rounded-md font-medium p-3 text-white">
-                        <a href="#contact">Connect with Us</a>
+                    <li className="bg-[#365486] w-[220px] rounded-md font-medium p-3 text-white hover:shadow-lg hover:shadow-white transition delay-150 duration-300">
+                        <a href="#contact">Contact Us</a>
                     </li>
                 </ul>
             </div>

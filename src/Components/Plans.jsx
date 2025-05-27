@@ -26,7 +26,9 @@ function Plans(){
                        <li className="flex items-center">
                             <CgChevronRightO size={23} color="blue" className="mr-2" />Pay as you go with no monthly commitments.</li>
                     </ul>
-                    <button className="bg-[#365486] w-[200px] rounded-md font-medium my-4 mx-auto py-3 text-white">Get Started Free</button>
+                    <button className="bg-[#365486] w-[200px] rounded-md font-medium my-4 mx-auto py-3  text-white hover:shadow-lg hover:shadow-blue-200 transition delay-150 duration-300">
+                        Get Started Free
+                    </button>
                 </div>
 
                 <div className="border-4 border-blue-400 rounded-2xl p-4 m-4">
@@ -44,7 +46,9 @@ function Plans(){
                             <CgChevronRightO size={23} color="blue" className="mr-2" />Dive deep into advanced soft skills training.
                         </li>
                     </ul>
-                    <button className="bg-[#365486] w-[200px] rounded-md font-medium my-4 mx-auto py-3 text-white">Get Pro Plan</button>
+                    <button className="bg-[#365486] w-[200px] rounded-md font-medium my-4 mx-auto py-3 text-white hover:shadow-lg hover:shadow-blue-200 transition delay-150 duration-300">
+                        Get Pro Plan
+                    </button>
                 </div>
 
                 <div className="border-4 border-blue-400 rounded-2xl p-4 m-4">
@@ -59,7 +63,9 @@ function Plans(){
                        <li className="flex items-center">
                             <CgChevronRightO size={23} color="blue" className="mr-2" />Tailored guidance to maximize your potential.</li>
                     </ul>
-                    <button className="bg-[#365486] w-[200px] rounded-md font-medium my-4 mx-auto py-3 text-white">Get Premium Plan</button>
+                    <button className="bg-[#365486] w-[200px] rounded-md font-medium my-4 mx-auto py-3 text-white hover:shadow-lg hover:shadow-blue-200 transition delay-150 duration-300">
+                        Get Premium Plan
+                    </button>
                 </div>
             </div>
         </div>

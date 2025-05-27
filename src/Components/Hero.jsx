@@ -25,7 +25,7 @@ function Hero(){
                         loop
                         ></ReactTyped>
                      </div>
-                     <button className="bg-[#7FC7D9] w-[150px] rounded-md font-medium my-6 mx-auto py-3 text-white" id="feature">
+                     <button className="bg-[#7FC7D9] w-[150px] rounded-md font-medium my-6 mx-auto py-3 text-white hover:shadow-lg hover:shadow-white transition delay-150 duration-300" id="feature">
                         <a href="#service">Let's Explore</a>
                     </button>
                 </div>

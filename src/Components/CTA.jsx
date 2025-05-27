@@ -16,10 +16,10 @@ function Action(){
                 </p>
                 <h2 className="md:text-xl sm:text-lg text-md text-[#DCF2F1] mt-4 mb-8">Don't wait any longer - seize the opportunity to unlock your full potential with Akademy.</h2>
                 <div className="flex gap-1.5 px-12">
-                    <button className="bg-[#7FC7D9] w-[150px] rounded-md font-medium my-4 mx-auto py-2 text-white">
+                    <button className="bg-[#7FC7D9] w-[150px] rounded-md font-medium my-4 mx-auto py-2 text-white hover:shadow-lg hover:shadow-blue-200 transition delay-150 duration-300 ease-in-out hover:scale-105">
                       <a href="#plans">Register Now</a>
                     </button>
-                    <button className="w-[180px] rounded-md shadow-lg shadow-sky-100/50 font-medium my-4 mx-auto py-2 text-white">
+                    <button className="w-[180px] rounded-md shadow-lg shadow-sky-100/50 font-medium my-4 mx-auto py-2 text-white hover:shadow-lg hover:shadow-blue-200 transition delay-150 duration-300 ease-in-out hover:scale-105">
                       <a href="#service">Explore Programs</a>
                     </button>
                 </div>
