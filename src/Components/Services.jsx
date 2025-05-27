@@ -11,7 +11,7 @@ import thinkingImg from './Asset/services/thinking.jpg';
 
 function Services(){
     return(
-        <div className="text-black my-[200px] mx-6 " id="service">
+        <div className="text-slate-100 my-[200px] mx-6" id="service">
             <div className="w-[350px] md:w-[550px] mt-[90px] mx-auto text-center justify-center py-2">
                 <p className="text-[#7FC7D9] font-bold p-2 text-base">Unlock Your Potential</p>
                 <h1 className="md:text-5xl sm:text-3xl text-4xl font-bold">

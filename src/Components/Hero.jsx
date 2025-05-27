@@ -4,7 +4,7 @@ import heroImg from './Asset/hero-img.png';
 
 function Hero(){
     return(
-        <div className="text-black sm:py-20 grid sm:grid-cols-2" id="home">
+        <div className="text-slate-100 sm:py-20 grid sm:grid-cols-2" id="home">
             <div className="max-w-[550px] mx-auto px-4">
                 <div className="mt-[150px] text-center md:text-left">
                     <p className="text-[#7FC7D9] font-bold p-2 text-base">Discover limitless potential with Akademy</p>

@@ -3,7 +3,7 @@ import { CgChevronRightO } from "react-icons/cg";
 
 function Plans(){
     return(
-        <div className="text-black py-20" id="plans">
+        <div className="text-slate-100 py-20" id="plans">
             <div className="w-[350px] md:w-[550px]  mx-auto text-center justify-center py-2">
                 <p className="text-[#365486] font-bold p-2 text-base mt-[15%]">Subscription Choices</p>
                 <h1 className="md:text-5xl sm:text-3xl text-4xl font-bold">
@@ -12,8 +12,8 @@ function Plans(){
                 <p className="md:text-xl sm:text-lg text-md text-[#DCF2F1] mt-4 mb-8">Choose the plan that suits your needs</p>
             </div>
 
-            <div className="grid grid-cols-1 md:grid-cols-3 mx-auto w-[350px] md:w-[1240px] gap-6 mt-8">
-                <div className="border-4  border-blue-400 rounded-2xl p-4 m-4">
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-2 p-4 mt-8 overflow-x-hidden">
+                <div className="border-4 border-blue-400 rounded-2xl p-4 m-4">
                     <p className="my-4">Basic Plan: Essential Access</p>
                     <h1 className="text-4xl my-2">Free</h1>
                     <p className="text-base my-6 font-thin">Dive into essential soft skills training tailored to your needs, without the commitment of a subscription.</p>
@@ -29,7 +29,7 @@ function Plans(){
                     <button className="bg-[#365486] w-[200px] rounded-md font-medium my-4 mx-auto py-3 text-white">Get Started Free</button>
                 </div>
 
-                <div className="border-4  border-blue-400 rounded-2xl p-4 m-4">
+                <div className="border-4 border-blue-400 rounded-2xl p-4 m-4">
                     <p className="my-4">Pro Plan: Unlimited Learning</p>
                     <h1 className="text-4xl my-6">RM 50<span className="text-xl">/month</span></h1>
                     <p className="text-md my-2">Immerse yourself in comprehensive soft skills training, with the freedom to explore and grow at your own pace.</p>
