@@ -4,12 +4,12 @@ import { CgChevronRightO } from "react-icons/cg";
 function Plans(){
     return(
         <div className="text-black py-20" id="plans">
-            <div className="w-[350px] md:w-[550px]  mx-auto text-center justify-center">
-                <p className="text-[#365486] font-bold p-2 text-xl mt-[15%]">Subscription Choices</p>
-                <h1 className=" md:text-6xl sm:text-5xl text-3xl font-bold md:py-6">
+            <div className="w-[350px] md:w-[550px]  mx-auto text-center justify-center py-2">
+                <p className="text-[#365486] font-bold p-2 text-base mt-[15%]">Subscription Choices</p>
+                <h1 className="md:text-5xl sm:text-3xl text-4xl font-bold">
                 Elevate Your Learning Journey
                 </h1>
-                <p className="text-md text-[#DCF2F1] mt-4 mb-8">Choose the plan that suits your needs:</p>
+                <p className="md:text-xl sm:text-lg text-md text-[#DCF2F1] mt-4 mb-8">Choose the plan that suits your needs</p>
             </div>
 
             <div className="grid grid-cols-1 md:grid-cols-3 mx-auto w-[350px] md:w-[1240px] gap-6 mt-8">

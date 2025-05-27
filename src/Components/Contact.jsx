@@ -24,8 +24,8 @@ function Contact(){
         <div className=" mt-[150px] gap-4 text-black mb-8" id="contact">
             <div className="grid sm:grid-cols-2">
             <div className="w-[350px] md:w-[550px] mt-8 mx-auto text-center justify-center">
-                <p className="text-[#7FC7D9] font-bold p-2 text-xl">Contact Us</p>
-                <h1 className="text-white md:text-6xl sm:text-5xl text-4xl font-bold md:py-6 mb-8">Let's Stay Connected</h1>
+                <p className="text-[#7FC7D9] font-bold p-2 text-base">Contact Us</p>
+                <h1 className="text-white md:text-5xl sm:text-3xl text-4xl font-bold md:p-6 mb-8">Let's Stay Connected</h1>
             </div>
 
         

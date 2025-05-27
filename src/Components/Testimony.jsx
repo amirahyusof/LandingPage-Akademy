@@ -1,4 +1,4 @@
-import React from "react";
+
 import { Swiper } from "swiper/react";
 import { SwiperSlide } from "swiper/react";
 import 'swiper/css';
@@ -12,13 +12,13 @@ function Testimony(){
 
     return(
         <div  className="text-black mx-6 my-[150px]" id="testimony">
-            <div className="w-[350px] md:w-[550px]  mx-auto text-center justify-center">
-                <p className="text-[#7FC7D9] font-bold p-2 text-xl">Boost Your Skills</p>
-                <h1 className=" md:text-6xl sm:text-5xl text-3xl font-bold md:py-6">
+            <div className="w-[350px] md:w-[550px]  mx-auto text-center justify-center py-2">
+                <p className="text-[#7FC7D9] font-bold p-2 text-base">Boost Your Skills</p>
+                <h1 className="md:text-5xl sm:text-3xl text-4xl font-bold">
                 What people say about 
                 <span className="text-white"> Aka</span><span className="text-[#0F1035]">demy</span>
                 </h1>
-                <p className="text-md text-[#DCF2F1] mt-4 mb-12 p-2">Discover the impact of our transformative programs</p>
+                <p className="md:text-xl sm:text-lg text-md text-[#DCF2F1] mt-4 mb-12 p-2">Discover the impact of our transformative programs</p>
             </div>
 
 

@@ -7,13 +7,13 @@ function Hero(){
         <div className="text-black sm:py-20 grid sm:grid-cols-2" id="home">
             <div className="max-w-[550px] mx-auto px-4">
                 <div className="mt-[150px] text-center md:text-left">
-                    <p className="text-[#7FC7D9] font-bold p-2 text-xl">Discover limitless potential with Akademy</p>
-                    <h1 className="md:text-6xl sm:text-5xl text-3xl font-bold md:py-6">
+                    <p className="text-[#7FC7D9] font-bold p-2 text-base">Discover limitless potential with Akademy</p>
+                    <h1 className="md:text-5xl sm:text-3xl text-4xl font-bold md:py-6">
                         Unleash Your Greatness Today
                     </h1>
                     <div className="flex justify-center items-center text-[#DCF2F1]">
                         <ReactTyped
-                         className="md:text-3xl sm:text-2xl text-xl font-bold pt-4 pl-2"
+                         className="md:text-xl sm:text-lg text-md font-bold pt-4 pl-2"
                          strings={[
                             "Ignite Your Potential and Transform Your Future!",
                             "Discover Your Hidden Potential and Soar to Success!",

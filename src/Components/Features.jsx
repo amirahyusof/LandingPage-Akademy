@@ -10,12 +10,12 @@ import lifetimeImg from './Asset/features/lifetime.png';
 function Features(){
     return(
         <div className="text-black mx-6" id="feature">
-            <div className="sm:w-[650px] md:w-[850px] mt-[90px] mx-auto text-center justify-center">
-                <p className="text-[#7FC7D9] font-bold p-2 text-xl">Features</p>
-                <h1 className=" md:text-6xl sm:text-5xl text-3xl font-bold md:py-6">
+            <div className="sm:w-[650px] md:w-[850px] mt-[90px] mx-auto text-center justify-center py-2">
+                <p className="text-[#7FC7D9] font-bold p-2 text-base">Features</p>
+                <h1 className=" md:text-4xl sm:text-3xl text-2xl font-bold">
                 Embark on a journey of growth with  <span className="text-white"> Aka</span><span className="text-[#0F1035]">demy</span>'s interactive learning platform
                 </h1>
-                <p className="text-md text-white mt-4 mb-12">At Akademy, we provide an enriching environment where you can immerse yourself in</p>
+                <p className="md:text-xl sm:text-lg text-md text-white mb-12">At Akademy, we provide an enriching environment where you can immerse yourself in</p>
             </div>
 
             <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-6 gap-4 sm:gap-6 md:gap-0 text-white px-2 mx-auto justify-center">

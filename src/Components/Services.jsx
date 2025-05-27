@@ -12,12 +12,12 @@ import thinkingImg from './Asset/services/thinking.jpg';
 function Services(){
     return(
         <div className="text-black my-[200px] mx-6 " id="service">
-            <div className="w-[350px] md:w-[550px] mt-[90px] mx-auto text-center justify-center">
-                <p className="text-[#7FC7D9] font-bold p-2 text-xl">Unlock Your Potential</p>
-                <h1 className=" md:text-6xl sm:text-5xl text-3xl font-bold md:py-6">
+            <div className="w-[350px] md:w-[550px] mt-[90px] mx-auto text-center justify-center py-2">
+                <p className="text-[#7FC7D9] font-bold p-2 text-base">Unlock Your Potential</p>
+                <h1 className="md:text-5xl sm:text-3xl text-4xl font-bold">
                 Our Training, Your Triumph
                 </h1>
-                <p className="text-md text-[#DCF2F1] mt-4 mb-12">Discover our comprehensive programs covering a wide array of crucial soft skills, including</p>
+                <p className="md:text-xl sm:text-lg text-md text-[#DCF2F1] mt-4 mb-12">Discover our comprehensive programs covering a wide array of crucial soft skills, including</p>
             </div>
 
             <div className="grid grid-cols-2 md:grid-cols-4 gap-2 sm:gap-8 md:gap-4 px-6 mx-auto text-center justify-center">
