@@ -114,8 +114,8 @@ Writing stronger documentation (done!)
 
 ## 👩‍💻 Author
 Amirah Yusof
-Frontend Developer & Designer
-GitHub @amirahyusof
+<br/>Frontend Developer & Designer
+<br/>GitHub @amirahyusof
 
 ## 🪪 License
 This project is licensed under the MIT License.
