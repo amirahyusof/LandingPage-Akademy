@@ -9,7 +9,7 @@ function Hero(){
                 <div className="mt-[150px] text-center md:text-left">
                     <p className="text-[#7FC7D9] font-bold p-2 text-base">Discover limitless potential with Akademy</p>
                     <h1 className="md:text-5xl sm:text-3xl text-4xl font-bold md:py-6">
-                        Unleash Your Greatness Today
+                       Empowering curious young minds from home
                     </h1>
                     <div className="flex justify-center items-center text-[#DCF2F1]">
                         <ReactTyped
