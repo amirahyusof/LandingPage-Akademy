@@ -13,7 +13,7 @@ function Footer(){
              <FaTwitterSquare size={35} color="white" />
              <FaLinkedin size={35} color="white" />
              </div>
-             <p className="text-sm text-white mt-8 mb-4 mx-auto justify-center">&copy; 2024 Akademy. All rights reserved.</p>
+             <p className="text-sm text-white mt-8 mb-4 mx-auto justify-center">&copy; 2025 Akademy. All rights reserved.</p>
         </div>
     )
 }
